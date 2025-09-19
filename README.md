@@ -1,4 +1,3 @@
-# Text-Summarizer-Using-NLP-Machine-Learning
 # 📝 Text Summarizer using NLP & Machine Learning
 
 This project is an **AI-powered Text Summarizer** that automatically condenses long passages of text into short, meaningful summaries without losing the essence of the content. It leverages **Natural Language Processing (NLP)** techniques and **Machine Learning** models to make content consumption faster, smarter, and more efficient.
